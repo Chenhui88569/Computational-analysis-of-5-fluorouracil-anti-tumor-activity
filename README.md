@@ -11,4 +11,7 @@ Functions in the folder are for resistance analysis. The main function is  @Resi
 Functions for plotting the figures are put in the paper. The scripts are @PlotAllIntermediates.m, @PlotAllTGIModels.m, and @PlotMutIDose_DSB_Ana.m
 ## parameter estimation
 Functions for estimating parameters for each submodel are included. The main functions are kinetics_dNTP_main.m kinetics_DSB_main.m kinetics_PKand3to10_main.m kinetics_TumorVolume_main.m. We conduct the sequential parameter estimation because it is computationally infeasible to estimate all the parameters once and all.
-## Time 
+## Model generalizability, Sensitivity Analysis, and AUC calculation
+The main function is @DoseDifference main.m used to carry out the three tasks.
+## TimeCourses_DSB_Anabolites
+The folder includes the precomputed time courses of DSB and 5-FU anabolites using predefined cellular model for each of nine TGI models to speed up the process of estimating parameters in TGI models.
