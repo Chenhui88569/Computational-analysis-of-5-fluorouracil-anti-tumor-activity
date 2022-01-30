@@ -5,9 +5,9 @@ The entire model is composed of PK, cellular, and tumor growth inhibition (TGI) 
 
 
 
-![PK](https://tva1.sinaimg.cn/large/008i3skNgy1gyw1vi8qiij30gl05fgln.jpg)
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gyw1z94b3uj30gl05fgln.jpg" alt="PK" style="zoom:33%;" />
 
-![CellularTumor](https://tva1.sinaimg.cn/large/008i3skNgy1gyw1vh03zqj30zo0u0acg.jpg)
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gyw1z8ealyj30zo0u0acg.jpg" alt="CellularTumor" style="zoom:33%;" />
 
 ### parameter estimation
 @EstimateTumorGrowth_kinetics : 
