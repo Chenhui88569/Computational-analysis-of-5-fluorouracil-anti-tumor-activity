@@ -6,10 +6,9 @@ The entire model is composed of PK, cellular, and tumor growth inhibition (TGI) 
 
 
 ## Resistance analysis
-Functions in the folder are for resistance analysis. The main function is 
+Functions in the folder are for resistance analysis. The main function is  @Resistance_main_PlotForPaper.m
 ## Plot figures
-functions for plotting the figures shown in the paper
+Functions for plotting the figures are put in the paper. The scripts are @PlotAllIntermediates.m, @PlotAllTGIModels.m, and @PlotMutIDose_DSB_Ana.m
 ## parameter estimation
-@EstimateTumorGrowth_kinetics :  function used for estimating parameters in TGI model for the untreated group.    
-@EstimateTumorGrowth_plot :  function used for estimating parameters in TGI model for the untreated group.  
-
+Functions for estimating parameters for each submodel are included. The main functions are kinetics_dNTP_main.m kinetics_DSB_main.m kinetics_PKand3to10_main.m kinetics_TumorVolume_main.m. We conduct the sequential parameter estimation because it is computationally infeasible to estimate all the parameters once and all.
+## Time 
