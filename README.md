@@ -6,7 +6,8 @@ The entire model is composed of PK, cellular, and tumor growth inhibition (TGI) 
 
 
 ## Resistance analysis
-Functions in the folder are for resistance analysis. The main function is  @Resistance_main_PlotForPaper.m
+The resistance analysis is discussed in detail in the manucript. The main functions in the folder are for resistance analysis are @Resistance_main_oncluster.m and Resistance_main_plot.m, which run on the cluster using Matlab Parallel computing to save extensive computational time. @Resistance_main_oncluster.m is served to exexcute hte 
+  
 ## Plot figures
 Functions for plotting the figures are put in the paper. The scripts are @PlotAllIntermediates.m, @PlotAllTGIModels.m, and @PlotMutIDose_DSB_Ana.m
 ## parameter estimation
