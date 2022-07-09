@@ -1,11 +1,12 @@
 clear
 close all
-addpath('../DataSet_TGI')
+%addpath('D:\pythonworkshop\matlab\PKPD_5FU\compartmental analysis\DataSet_TGI')
+addpath('DataSet_TGI')
 UnitConversion = 10^6/130.077;
 day2min = 24*60;
 mm3tocm3 = 10^-3;
 week2min = 7*24*60;
-prompt = { '\fontsize{9} Do you want to compute AUCe or see the figures or conduct the sensitivity analysis ?(2:sensitivity analysis ;1: only compute AUC, 0:see the figures  )' };
+prompt = { '\fontsize{9} Do you want to compute AUCe or see the figures?(2:sensitivity analysis ;1: only compute AUC, 0:see the figures  )' };
 dlgtitle = 'Dose difference flags input';
 definput = {'1'};
 dims = [2 30];
@@ -279,9 +280,7 @@ function DoseDifference_plot(AllModel_info,TV_initial,Data_array,ComputeAUCe,the
    FocusOnTumorVolume_SeparatePlots,FocusOnTumorVolume_SeparatePlots_CurrentDose,...
    IntermediateSubplot_InOneFig,TruncateDuration_ToDataTimeFrame    )
 
-if ComputeAUCe == 2
-    SensitivityAnalysis_TGI(AllModel_info);
-elseif ComputeAUCe == 1
+if ComputeAUCe == 1
     Dose_difference_AUCe_damage(AllModel_info);
 %     [Dose_info_uniq_AUC,~,~] = unique(Dose_info,'rows','stable');
 %     AbsoluteFrequency =fix(7*day2min./ Dose_info_uniq_AUC(1:end-1,3)) ;
@@ -372,7 +371,7 @@ else
     Dose_info_display = append( "Model:", [
         "5 mg/kg, daily for 9 days" ,...
         "10 mg/kg, 3 times a week for 3 weeks" , "10 mg/kg, twice a week for 5 weeks", ...
-        "20 mg/kg, every the other day for 2 weeks" , "20 mg/kg, twice a week for 3 weeks",...
+        "20 mg/kg, every other day for 2 weeks" , "20 mg/kg, twice a week for 3 weeks",...
         "50 mg/kg, daily, 4 times",...
         "20 mg/kg, 3 times a week for 3 weeks",...
         "100mg/kg, Weekly schedule for 4 weeks" ," control group" ]) ;
@@ -555,7 +554,7 @@ if FocusOnTumorVolume ==1  %focus on tumor volume
                 end
                 hold off
                 legend( [  Dose_info_display(4) ,  append("data", string(1: Sheets_Dataset_Num) ,...
-                    "5FU(i.p. 20mg/kg) are administered every the other day for 2 weeks" ,",Cell line: ", CellLine ),...
+                    "5FU(i.p. 20mg/kg) are administered every other day for 2 weeks" ,",Cell line: ", CellLine ),...
                     "model no treatment" ,  append("data", string(1: Sheets_Dataset_Num) , "  control group" ) ], ...
                     'Location', 'best', 'FontSize',12)
             end
@@ -575,7 +574,7 @@ if FocusOnTumorVolume ==1  %focus on tumor volume
             legend_label = [  Dose_info_display(7) ,...
                 append("data", string(1: Sheets_Dataset_Num) ," (i.p. 20mg/kg) are given three times a week for 3 weeks,Cell line HT29") ,...
                 "model no treatment" ,  append("data", string(1: Sheets_Dataset_Num) , "  control group" ) ] ;
-            figure %2  every the other day
+            figure %2  every other day
             plot(Tv_Tumor_variation,  Cfit_Tumor_variation(:,1)/TV_initial , 'LineWidth',2 );%model
             hold on
             for i = 1: Sheets_Dataset_Num  %plot treated groups
