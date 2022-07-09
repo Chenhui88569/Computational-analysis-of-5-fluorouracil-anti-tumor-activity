@@ -1,0 +1,84 @@
+1:Tumor Volume
+	 Max: 3.102e-02(1.2 fold $\downarrow$) 3.607e+00(1.3 fold $\uparrow$) 1.087e+00(7.1 fold $\uparrow$) 1.757e+01(8.7 fold $\uparrow$) 
+	 Min: 2.167e-02(1.8 fold $\downarrow$) 2.504e+01(8.7 fold $\uparrow$) 1.991e-01(1.3 fold $\uparrow$) 4.817e+00(2.4 fold $\uparrow$) 
+	 Closest: 3.434e-02(1.1 fold $\downarrow$) 1.810e+01(6.3 fold $\uparrow$) 1.235e+00(8.1 fold $\uparrow$) 1.037e+01(5.1 fold $\uparrow$) 
+1: Anabolites
+	 Max: 6.463e-03(6 fold $\downarrow$) 2.763e+01(9.6 fold $\uparrow$) 4.463e-01(2.9 fold $\uparrow$) 2.324e+00(1.1 fold $\uparrow$) 
+	 Min: 3.102e-02(1.2 fold $\downarrow$) 3.607e+00(1.3 fold $\uparrow$) 1.087e+00(7.1 fold $\uparrow$) 1.757e+01(8.7 fold $\uparrow$) 
+	 Closest: 3.434e-02(1.1 fold $\downarrow$) 1.810e+01(6.3 fold $\uparrow$) 1.235e+00(8.1 fold $\uparrow$) 1.037e+01(5.1 fold $\uparrow$) 
+1: DSB
+	 Max: 2.378e-02(1.6 fold $\downarrow$) 2.892e+00(1 fold $\uparrow$) 9.200e-01(6 fold $\uparrow$) 2.188e+00(1.1 fold $\uparrow$) 
+	 Min: 2.342e-02(1.6 fold $\downarrow$) 5.426e+00(1.9 fold $\uparrow$) 1.360e+00(8.9 fold $\uparrow$) 1.867e+01(9.2 fold $\uparrow$) 
+	 Closest: 3.434e-02(1.1 fold $\downarrow$) 1.810e+01(6.3 fold $\uparrow$) 1.235e+00(8.1 fold $\uparrow$) 1.037e+01(5.1 fold $\uparrow$) 
+2:Tumor Volume
+	 Max: 3.406e-01(2.2 fold $\uparrow$) 5.417e+01(3.1 fold $\uparrow$) 6.769e-03(4.7 fold $\downarrow$) 3.432e-02(1.1 fold $\downarrow$) 6.175e+00(2.1 fold $\uparrow$) 1.479e+00(9.7 fold $\uparrow$) 
+	 Min: 1.531e+00(9.9 fold $\uparrow$) 1.712e+01(1 fold $\downarrow$) 4.398e-03(7.3 fold $\downarrow$) 3.789e-02(1 fold $\downarrow$) 2.276e+01(7.9 fold $\uparrow$) 7.187e-01(4.7 fold $\uparrow$) 
+	 Closest: 3.406e-01(2.2 fold $\uparrow$) 5.417e+01(3.1 fold $\uparrow$) 6.769e-03(4.7 fold $\downarrow$) 3.432e-02(1.1 fold $\downarrow$) 6.175e+00(2.1 fold $\uparrow$) 1.479e+00(9.7 fold $\uparrow$) 
+2: Anabolites
+	 Max: 1.531e+00(9.9 fold $\uparrow$) 1.712e+01(1 fold $\downarrow$) 4.398e-03(7.3 fold $\downarrow$) 3.789e-02(1 fold $\downarrow$) 2.276e+01(7.9 fold $\uparrow$) 7.187e-01(4.7 fold $\uparrow$) 
+	 Min: 3.406e-01(2.2 fold $\uparrow$) 5.417e+01(3.1 fold $\uparrow$) 6.769e-03(4.7 fold $\downarrow$) 3.432e-02(1.1 fold $\downarrow$) 6.175e+00(2.1 fold $\uparrow$) 1.479e+00(9.7 fold $\uparrow$) 
+	 Closest: 3.406e-01(2.2 fold $\uparrow$) 5.417e+01(3.1 fold $\uparrow$) 6.769e-03(4.7 fold $\downarrow$) 3.432e-02(1.1 fold $\downarrow$) 6.175e+00(2.1 fold $\uparrow$) 1.479e+00(9.7 fold $\uparrow$) 
+2: DSB
+	 Max: 9.379e-01(6.1 fold $\uparrow$) 1.193e+02(6.8 fold $\uparrow$) 2.852e-02(1.1 fold $\downarrow$) 3.413e-02(1.1 fold $\downarrow$) 3.977e+00(1.4 fold $\uparrow$) 2.318e-01(1.5 fold $\uparrow$) 
+	 Min: 7.481e-01(4.8 fold $\uparrow$) 1.232e+01(1.4 fold $\downarrow$) 6.986e-03(4.6 fold $\downarrow$) 2.648e-02(1.5 fold $\downarrow$) 1.070e+01(3.7 fold $\uparrow$) 1.427e+00(9.4 fold $\uparrow$) 
+	 Closest: 3.406e-01(2.2 fold $\uparrow$) 5.417e+01(3.1 fold $\uparrow$) 6.769e-03(4.7 fold $\downarrow$) 3.432e-02(1.1 fold $\downarrow$) 6.175e+00(2.1 fold $\uparrow$) 1.479e+00(9.7 fold $\uparrow$) 
+3:Tumor Volume
+	 Max: 1.417e+01(1.9 fold $\downarrow$) 4.407e+03(1.9 fold $\uparrow$) 2.907e-02(1.3 fold $\downarrow$) 1.981e+01(6.9 fold $\uparrow$) 6.096e-01(4 fold $\uparrow$) 
+	 Min: 2.649e+01(1 fold $\downarrow$) 2.338e+03(1 fold $\uparrow$) 3.638e-02(1.1 fold $\downarrow$) 1.287e+01(4.5 fold $\uparrow$) 6.861e-01(4.5 fold $\uparrow$) 
+	 Closest: 2.225e+01(1.2 fold $\downarrow$) 2.688e+03(1.2 fold $\uparrow$) 1.178e-02(3.3 fold $\downarrow$) 1.853e+01(6.4 fold $\uparrow$) 8.614e-01(5.6 fold $\uparrow$) 
+3: Anabolites
+	 Max: 2.669e+01(1 fold $\downarrow$) 2.403e+03(1 fold $\uparrow$) 1.368e-02(2.8 fold $\downarrow$) 1.906e+01(6.6 fold $\uparrow$) 7.084e-01(4.6 fold $\uparrow$) 
+	 Min: 1.440e+01(1.9 fold $\downarrow$) 4.456e+03(1.9 fold $\uparrow$) 3.775e-02(1 fold $\downarrow$) 6.430e+00(2.2 fold $\uparrow$) 1.115e+00(7.3 fold $\uparrow$) 
+	 Closest: 2.225e+01(1.2 fold $\downarrow$) 2.688e+03(1.2 fold $\uparrow$) 1.178e-02(3.3 fold $\downarrow$) 1.853e+01(6.4 fold $\uparrow$) 8.614e-01(5.6 fold $\uparrow$) 
+3: DSB
+	 Max: 2.692e+01(1 fold $\downarrow$) 2.553e+03(1.1 fold $\uparrow$) 3.732e-02(1 fold $\downarrow$) 3.710e+00(1.3 fold $\uparrow$) 3.814e-01(2.5 fold $\uparrow$) 
+	 Min: 1.417e+01(1.9 fold $\downarrow$) 4.407e+03(1.9 fold $\uparrow$) 2.907e-02(1.3 fold $\downarrow$) 1.981e+01(6.9 fold $\uparrow$) 6.096e-01(4 fold $\uparrow$) 
+	 Closest: 2.225e+01(1.2 fold $\downarrow$) 2.688e+03(1.2 fold $\uparrow$) 1.178e-02(3.3 fold $\downarrow$) 1.853e+01(6.4 fold $\uparrow$) 8.614e-01(5.6 fold $\uparrow$) 
+4:Tumor Volume
+	 Max: 3.289e-02(1.2 fold $\downarrow$) 3.515e+00(1.2 fold $\uparrow$) 1.257e+00(8.2 fold $\uparrow$) 1.104e+01(6.1 fold $\uparrow$) 
+	 Min: 6.463e-03(6 fold $\downarrow$) 2.763e+01(9.6 fold $\uparrow$) 4.463e-01(2.9 fold $\uparrow$) 2.071e+00(1.1 fold $\uparrow$) 
+	 Closest: 3.289e-02(1.2 fold $\downarrow$) 3.515e+00(1.2 fold $\uparrow$) 1.257e+00(8.2 fold $\uparrow$) 1.104e+01(6.1 fold $\uparrow$) 
+4: Anabolites
+	 Max: 4.523e-03(8.5 fold $\downarrow$) 1.158e+01(4 fold $\uparrow$) 2.248e-01(1.5 fold $\uparrow$) 1.104e+01(6.1 fold $\uparrow$) 
+	 Min: 3.289e-02(1.2 fold $\downarrow$) 3.515e+00(1.2 fold $\uparrow$) 1.257e+00(8.2 fold $\uparrow$) 1.104e+01(6.1 fold $\uparrow$) 
+	 Closest: 3.289e-02(1.2 fold $\downarrow$) 3.515e+00(1.2 fold $\uparrow$) 1.257e+00(8.2 fold $\uparrow$) 1.104e+01(6.1 fold $\uparrow$) 
+4: DSB
+	 Max: 2.589e-02(1.5 fold $\downarrow$) 4.017e+00(1.4 fold $\uparrow$) 2.034e-01(1.3 fold $\uparrow$) 1.062e+01(5.9 fold $\uparrow$) 
+	 Min: 4.168e-03(9.2 fold $\downarrow$) 2.769e+01(9.6 fold $\uparrow$) 9.546e-01(6.3 fold $\uparrow$) 1.584e+01(8.8 fold $\uparrow$) 
+	 Closest: 3.289e-02(1.2 fold $\downarrow$) 3.515e+00(1.2 fold $\uparrow$) 1.257e+00(8.2 fold $\uparrow$) 1.104e+01(6.1 fold $\uparrow$) 
+5:Tumor Volume
+	 Max: 3.451e+01(9.3 fold $\uparrow$) 2.261e+00(1.3 fold $\uparrow$) 
+	 Min: 1.786e+01(4.8 fold $\uparrow$) 2.795e+00(1.6 fold $\uparrow$) 
+	 Closest: 3.451e+01(9.3 fold $\uparrow$) 2.261e+00(1.3 fold $\uparrow$) 
+5: Anabolites
+	 Max: 3.451e+01(9.3 fold $\uparrow$) 2.261e+00(1.3 fold $\uparrow$) 
+	 Min: 1.786e+01(4.8 fold $\uparrow$) 2.795e+00(1.6 fold $\uparrow$) 
+	 Closest: 3.451e+01(9.3 fold $\uparrow$) 2.261e+00(1.3 fold $\uparrow$) 
+5: DSB
+	 Max: 4.147e+00(1.1 fold $\uparrow$) 1.011e+01(5.6 fold $\uparrow$) 
+	 Min: 3.451e+01(9.3 fold $\uparrow$) 1.776e+01(9.9 fold $\uparrow$) 
+	 Closest: 3.451e+01(9.3 fold $\uparrow$) 2.261e+00(1.3 fold $\uparrow$) 
+6:Tumor Volume
+	 Max: 2.285e+01(6.2 fold $\uparrow$) 3.886e+03(2.9 fold $\uparrow$) 
+	 Min: 1.667e+01(4.5 fold $\uparrow$) 3.413e+03(2.5 fold $\uparrow$) 
+	 Closest: 2.285e+01(6.2 fold $\uparrow$) 3.886e+03(2.9 fold $\uparrow$) 
+6: Anabolites
+	 Max: 2.285e+01(6.2 fold $\uparrow$) 3.886e+03(2.9 fold $\uparrow$) 
+	 Min: 1.667e+01(4.5 fold $\uparrow$) 3.413e+03(2.5 fold $\uparrow$) 
+	 Closest: 2.285e+01(6.2 fold $\uparrow$) 3.886e+03(2.9 fold $\uparrow$) 
+6: DSB
+	 Max: 4.036e+00(1.1 fold $\uparrow$) 1.057e+04(7.9 fold $\uparrow$) 
+	 Min: 3.691e+01(10 fold $\uparrow$) 9.691e+03(7.2 fold $\uparrow$) 
+	 Closest: 2.285e+01(6.2 fold $\uparrow$) 3.886e+03(2.9 fold $\uparrow$) 
+7:Tumor Volume
+	 Max: 3.289e-02(1.2 fold $\downarrow$) 3.515e+00(1.2 fold $\uparrow$) 1.257e+00(8.2 fold $\uparrow$) 5.156e-01(1.6 fold $\downarrow$) 6.309e+02(8.5 fold $\uparrow$) 
+	 Min: 7.774e-03(5 fold $\downarrow$) 6.136e+00(2.1 fold $\uparrow$) 2.608e-01(1.7 fold $\uparrow$) 7.017e-01(1.2 fold $\downarrow$) 3.690e+02(5 fold $\uparrow$) 
+	 Closest: 2.410e-02(1.6 fold $\downarrow$) 3.119e+00(1.1 fold $\uparrow$) 1.342e+00(8.8 fold $\uparrow$) 6.461e-01(1.3 fold $\downarrow$) 6.872e+02(9.3 fold $\uparrow$) 
+7: Anabolites
+	 Max: 3.955e-03(9.7 fold $\downarrow$) 2.469e+01(8.6 fold $\uparrow$) 2.666e-01(1.7 fold $\uparrow$) 3.395e-01(2.5 fold $\downarrow$) 6.893e+02(9.3 fold $\uparrow$) 
+	 Min: 3.289e-02(1.2 fold $\downarrow$) 3.515e+00(1.2 fold $\uparrow$) 1.257e+00(8.2 fold $\uparrow$) 5.156e-01(1.6 fold $\downarrow$) 6.309e+02(8.5 fold $\uparrow$) 
+	 Closest: 2.410e-02(1.6 fold $\downarrow$) 3.119e+00(1.1 fold $\uparrow$) 1.342e+00(8.8 fold $\uparrow$) 6.461e-01(1.3 fold $\downarrow$) 6.872e+02(9.3 fold $\uparrow$) 
+7: DSB
+	 Max: 3.562e-02(1.1 fold $\downarrow$) 4.468e+00(1.6 fold $\uparrow$) 3.404e-01(2.2 fold $\uparrow$) 8.243e-01(1 fold $\downarrow$) 5.406e+02(7.3 fold $\uparrow$) 
+	 Min: 4.036e-03(9.5 fold $\downarrow$) 2.759e+01(9.6 fold $\uparrow$) 6.813e-01(4.5 fold $\uparrow$) 7.943e-01(1.1 fold $\downarrow$) 3.327e+02(4.5 fold $\uparrow$) 
+	 Closest: 2.410e-02(1.6 fold $\downarrow$) 3.119e+00(1.1 fold $\uparrow$) 1.342e+00(8.8 fold $\uparrow$) 6.461e-01(1.3 fold $\downarrow$) 6.872e+02(9.3 fold $\uparrow$) 
