@@ -6,7 +6,7 @@ The entire model is composed of PK, cellular, and tumor growth inhibition (TGI) 
 
 
 ## Resistance analysis
-The resistance analysis is discussed in detail in the manucript. The main functions in the folder are for resistance analysis are @Resistance_main_oncluster.m and Resistance_main_plot.m, which run on the cluster using Matlab Parallel computing to save extensive computational time. @Resistance_main_oncluster.m is served to exexcute hte 
+The resistance analysis is discussed in detail in the manucript. The main functions in the folder are for resistance analysis are @Resistance_main_oncluster.m and Resistance_main_plot.m, which run on the cluster using Matlab Parallel computing to save extensive computational time. @Resistance_main_oncluster.m is served to execute the seven scenarios. For each scenario, based on the sampled N parameter sets, the N time courses of tumor volume, anabolites and DSBs are computed and stored, which are futhered processed and dispalyed in Fig 5
   
 ## Plot figures
 Functions for plotting the figures are put in the paper. The scripts are @PlotAllIntermediates.m, @PlotAllTGIModels.m, and @PlotMutIDose_DSB_Ana.m
