@@ -30,3 +30,6 @@ We computationally experiment dosage regimens that are different from Table3.
 
 ## TimeCourses_DSB_Anabolites
 The folder named as "TimeCourses_DSB_Anabolites" includes the precomputed time courses of DSB and 5-FU anabolites using the predefined cellular model for each of nine TGI models to speed up the process of estimating parameters in TGI models.
+
+## MCMC_Tumor_UniformPriorDist, MCMC_Cellular_UniformPriorDist, MCMC_dNTP_DSB_UniformPriorDist, 
+We also employed the MCMC technique with uniform prior distributions.
