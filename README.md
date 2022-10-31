@@ -34,7 +34,7 @@ The global sensitivity analysis is conducted by applying Morris screening and So
 
 ## New dosing regimens.
 
-We computationally experiment dosage regimens that are different from Table3. 
+We computationally experiment dosage regimens that are different from Table3 in the paper. 
 
 ## TimeCourses_DSB_Anabolites
 The folder named as "TimeCourses_DSB_Anabolites" includes the precomputed time courses of DSB and 5-FU anabolites using the predefined cellular model for each of nine TGI models to speed up the process of estimating parameters in TGI models.
