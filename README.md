@@ -43,15 +43,15 @@ We also employed the MCMC technique with uniform prior distributions.
 ## Data
 The data used in the analysis are from the literature as cited in the paper. These papers are also listed below:
 ### Literature data used in cellular model
-[1] Berne MH, Gustavsson BG, Almersj ̈o O, Spears PC, Fr ̈osing R. Sequential Methotrexate/5-FU: FdUMP Formation and TS Inhibition in a Transplantable Rodent Colon Adenocarcinoma;16(3):237–242. doi:10.1007/BF00293984.  \\
+[1] Berne MH, Gustavsson BG, Almersj ̈o O, Spears PC, Fr ̈osing R. Sequential Methotrexate/5-FU: FdUMP Formation and TS Inhibition in a Transplantable Rodent Colon Adenocarcinoma;16(3):237–242. doi:10.1007/BF00293984.  <br> 
 [2] Falzacappa MVV, Ronchini C, Faretta M, Iacobucci I, Di Ror`a AGL, Martinelli G, et al. The Combination of the PARP Inhibitor Rucaparib and 5FU Is an  
-Effective Strategy for Treating Acute Leukemias;14(4):889–898. doi:10.1158/1535-7163.MCT-14-0276. 
-[3] Adams ER, Leffert JJ, Craig DJ, Spector T, Pizzorno G. In Vivo Effect of 5-Ethynyluracil on 5-Fluorouracil Metabolism Determined by 19F Nuclear Magnetic Resonance Spectroscopy;59(1):122–127. 
-[4] Adams ER, Leffert JJ, Craig DJ, Spector T, Pizzorno G. In Vivo Effect of 5-Ethynyluracil on 5-Fluorouracil Metabolism Determined by 19F Nuclear Magnetic Resonance Spectroscopy;59(1):122–127. 
-[5] van Laar JA, van der Wilt CL, Rustum YM, Noordhuis P, Smid K, Pinedo HM, et al. Therapeutic Efficacy of Fluoropyrimidines Depends on the Duration of Thymidylate Synthase Inhibition in the Murine Colon 26-B Carcinoma Tumor Model;2(8):1327–1333.
-[6] Noordhuis P, Holwerda U, Van Laar JaM, Van der Wilt CL, Peters GJ. A Non-Radioactive Sensitive Assay to Measure 5-Fluorouracil Incorporation into DNA of Solid Tumors;23(8-9):1481–1484. doi:10.1081/NCN-200027699. 
-[7] Spears CP, Shahinian AH, Moran RG, Heidelberger C, Corbett TH. In Vivo Kinetics of Thymidylate Synthetase Inhibition of 5-Fluorouracil-Sensitive and -Resistant Murine Colon Adenocarcinomas;42(2):450–456. 
-[8] Tattersall MH, Harrap KR. Changes in the Deoxyribonucleoside Triphosphate Pools of Mouse 5178Y Lymphoma Cells Following Exposure to Methotrexate or 5-Fluorouracil;33(12):3086–3090. 
+Effective Strategy for Treating Acute Leukemias;14(4):889–898. doi:10.1158/1535-7163.MCT-14-0276.   <br> 
+[3] Adams ER, Leffert JJ, Craig DJ, Spector T, Pizzorno G. In Vivo Effect of 5-Ethynyluracil on 5-Fluorouracil Metabolism Determined by 19F Nuclear Magnetic Resonance Spectroscopy;59(1):122–127.  <br> 
+[4] Adams ER, Leffert JJ, Craig DJ, Spector T, Pizzorno G. In Vivo Effect of 5-Ethynyluracil on 5-Fluorouracil Metabolism Determined by 19F Nuclear Magnetic Resonance Spectroscopy;59(1):122–127.  <br> 
+[5] van Laar JA, van der Wilt CL, Rustum YM, Noordhuis P, Smid K, Pinedo HM, et al. Therapeutic Efficacy of Fluoropyrimidines Depends on the Duration of Thymidylate Synthase Inhibition in the Murine Colon 26-B Carcinoma Tumor Model;2(8):1327–1333. <br> 
+[6] Noordhuis P, Holwerda U, Van Laar JaM, Van der Wilt CL, Peters GJ. A Non-Radioactive Sensitive Assay to Measure 5-Fluorouracil Incorporation into DNA of Solid Tumors;23(8-9):1481–1484. doi:10.1081/NCN-200027699.  <br> 
+[7] Spears CP, Shahinian AH, Moran RG, Heidelberger C, Corbett TH. In Vivo Kinetics of Thymidylate Synthetase Inhibition of 5-Fluorouracil-Sensitive and -Resistant Murine Colon Adenocarcinomas;42(2):450–456.  <br> 
+[8] Tattersall MH, Harrap KR. Changes in the Deoxyribonucleoside Triphosphate Pools of Mouse 5178Y Lymphoma Cells Following Exposure to Methotrexate or 5-Fluorouracil;33(12):3086–3090.  <br> 
 
 ### Literature data used in TGI model
 [1] Nadal JC, van Groeningen CJ, Pinedo HM, Peters GJ. Schedule-Dependency of in Vivo Modulation of 5-Fluorouracil by Leucovorin and Uridine in Murine Colon Carcinoma;7(2-3):163–172. doi:10.1007/BF00170853.
