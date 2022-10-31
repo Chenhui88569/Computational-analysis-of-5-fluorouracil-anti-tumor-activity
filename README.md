@@ -4,6 +4,8 @@ colon cancer using a mechanistic
 pharmacokinetic/pharmacodynamic model' which is accepted for publication in PLOS Compuatational Biology.  <br> 
 Author: Chenhui Ma, Alex Almasan, Evren Gurkan-Cavusoglu
 
+Note: The code is created by using Matlab$\textsuperscript{\textregistered}(ver. R2022a)$
+
 
 The entire model is composed of PK, cellular, and tumor growth inhibition (TGI) sub-models (shown in figures below), the last two of which constitute the PD model. The PK model is used to compute the concentration-time profile, and the TGI model focuses on the kinetics of tumor growth post-treatment.
 
