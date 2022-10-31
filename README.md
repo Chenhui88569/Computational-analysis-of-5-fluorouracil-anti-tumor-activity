@@ -54,11 +54,11 @@ Effective Strategy for Treating Acute Leukemias;14(4):889–898. doi:10.1158/153
 [8] Tattersall MH, Harrap KR. Changes in the Deoxyribonucleoside Triphosphate Pools of Mouse 5178Y Lymphoma Cells Following Exposure to Methotrexate or 5-Fluorouracil;33(12):3086–3090.  <br> 
 
 ### Literature data used in TGI model
-[1] Nadal JC, van Groeningen CJ, Pinedo HM, Peters GJ. Schedule-Dependency of in Vivo Modulation of 5-Fluorouracil by Leucovorin and Uridine in Murine Colon Carcinoma;7(2-3):163–172. doi:10.1007/BF00170853.
-[2] Tamaki T, Naomoto Y, Kimura S, Kawashima R, Shirakawa Y, Shigemitsu K, et al. Apoptosis in Normal Tissues Induced by Anti-Cancer Drugs. 2003 Jan-Feb;31(1):6–16. doi:10.1177/147323000303100102. 
-[3] Liang B, Shahbaz M, Wang Y, Gao H, Fang R, Niu Z, et al. Integrin6-Targeted Immunoliposomes Mediate Tumor-Specific Drug Delivery and Enhance Therapeutic Efficacy in Colon Carcinoma;21(5):1183–1195. doi:10.1158/1078-0432.CCR-14-1194. 
-[4] Xu L, Cheng G, Lu Y, Wang S. An Active Molecule from Pulsatilla Chinensis, Pulsatilla Saponin A, Induces Apoptosis and Inhibits Tumor Growth of Human Colon Cancer Cells without or with 5-FU;13(5):3799–3802. doi:10.3892/ol.2017.5884. 1158
-[5] Iwama T, Fujiya M, Konishi H, Tanaka H, Murakami Y, Kunogi T, et al. Bacteria-Derived Ferrichrome Inhibits Tumor Progression in Sporadic Colorectal Neoplasms and Colitis-Associated Cancer;21(1):21. doi:10.1186/s12935-020-01723-9. 1162
-[6] Yan Y, Lin HW, Zhuang ZN, Li M, Guo S. Interleukin-1 Receptor Antagonist Enhances Chemosensitivity to Fluorouracil in Treatment of Kras Mutant Colon Cancer;12(8):877–892. doi:10.4251/wjgo.v12.i8.877. 1165
-[7] Gao Y, Xiao X, Zhang C, Yu W, Guo W, Zhang Z, et al. Melatonin Synergizes the Chemotherapeutic Effect of 5-Fluorouracil in Colon Cancer by Suppressing PI3K/AKT and NF-B/iNOS Signaling Pathways;62(2). doi:10.1111/jpi.12380.
-[8] Lee JH, Lee SW. Enhancement of Chemosensitivity in 5-Fluorouracil-Resistant Colon Cancer Cells with Carcinoembryonic Antigen-Specific RNA Aptamer;46(4):3835–3842. doi:10.1007/s11033-019-04826-3.
+[1] Nadal JC, van Groeningen CJ, Pinedo HM, Peters GJ. Schedule-Dependency of in Vivo Modulation of 5-Fluorouracil by Leucovorin and Uridine in Murine Colon Carcinoma;7(2-3):163–172. doi:10.1007/BF00170853.  <br> 
+[2] Tamaki T, Naomoto Y, Kimura S, Kawashima R, Shirakawa Y, Shigemitsu K, et al. Apoptosis in Normal Tissues Induced by Anti-Cancer Drugs. 2003 Jan-Feb;31(1):6–16. doi:10.1177/147323000303100102.   <br> 
+[3] Liang B, Shahbaz M, Wang Y, Gao H, Fang R, Niu Z, et al. Integrin6-Targeted Immunoliposomes Mediate Tumor-Specific Drug Delivery and Enhance Therapeutic Efficacy in Colon Carcinoma;21(5):1183–1195. doi:10.1158/1078-0432.CCR-14-1194.   <br> 
+[4] Xu L, Cheng G, Lu Y, Wang S. An Active Molecule from Pulsatilla Chinensis, Pulsatilla Saponin A, Induces Apoptosis and Inhibits Tumor Growth of Human Colon Cancer Cells without or with 5-FU;13(5):3799–3802. doi:10.3892/ol.2017.5884.   <br> 
+[5] Iwama T, Fujiya M, Konishi H, Tanaka H, Murakami Y, Kunogi T, et al. Bacteria-Derived Ferrichrome Inhibits Tumor Progression in Sporadic Colorectal Neoplasms and Colitis-Associated Cancer;21(1):21. doi:10.1186/s12935-020-01723-9.   <br> 
+[6] Yan Y, Lin HW, Zhuang ZN, Li M, Guo S. Interleukin-1 Receptor Antagonist Enhances Chemosensitivity to Fluorouracil in Treatment of Kras Mutant Colon Cancer;12(8):877–892. doi:10.4251/wjgo.v12.i8.877.  <br> 
+[7] Gao Y, Xiao X, Zhang C, Yu W, Guo W, Zhang Z, et al. Melatonin Synergizes the Chemotherapeutic Effect of 5-Fluorouracil in Colon Cancer by Suppressing PI3K/AKT and NF-B/iNOS Signaling Pathways;62(2). doi:10.1111/jpi.12380.  <br> 
+[8] Lee JH, Lee SW. Enhancement of Chemosensitivity in 5-Fluorouracil-Resistant Colon Cancer Cells with Carcinoembryonic Antigen-Specific RNA Aptamer;46(4):3835–3842. doi:10.1007/s11033-019-04826-3.  <br> 
