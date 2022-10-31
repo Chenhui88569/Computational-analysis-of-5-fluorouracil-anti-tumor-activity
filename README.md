@@ -43,7 +43,7 @@ We also employed the MCMC technique with uniform prior distributions.
 ## Data
 The data used in the analysis are from the literature as cited in the paper. These papers are also listed below:
 ### Literature data used in cellular model
-[1] Berne MH, Gustavsson BG, Almersj ̈o O, Spears PC, Fr ̈osing R. Sequential Methotrexate/5-FU: FdUMP Formation and TS Inhibition in a Transplantable Rodent Colon Adenocarcinoma;16(3):237–242. doi:10.1007/BF00293984. <\br>
+[1] Berne MH, Gustavsson BG, Almersj ̈o O, Spears PC, Fr ̈osing R. Sequential Methotrexate/5-FU: FdUMP Formation and TS Inhibition in a Transplantable Rodent Colon Adenocarcinoma;16(3):237–242. doi:10.1007/BF00293984.  \\
 [2] Falzacappa MVV, Ronchini C, Faretta M, Iacobucci I, Di Ror`a AGL, Martinelli G, et al. The Combination of the PARP Inhibitor Rucaparib and 5FU Is an  
 Effective Strategy for Treating Acute Leukemias;14(4):889–898. doi:10.1158/1535-7163.MCT-14-0276. 
 [3] Adams ER, Leffert JJ, Craig DJ, Spector T, Pizzorno G. In Vivo Effect of 5-Ethynyluracil on 5-Fluorouracil Metabolism Determined by 19F Nuclear Magnetic Resonance Spectroscopy;59(1):122–127. 
