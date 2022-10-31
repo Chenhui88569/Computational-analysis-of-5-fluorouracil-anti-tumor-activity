@@ -39,3 +39,7 @@ The folder named as "TimeCourses_DSB_Anabolites" includes the precomputed time c
 
 ## MCMC_Tumor_UniformPriorDist, MCMC_Cellular_UniformPriorDist, MCMC_dNTP_DSB_UniformPriorDist, 
 We also employed the MCMC technique with uniform prior distributions.
+
+## Data
+The data used in the analysis are from the literature as cited in the paper. These papers are also listed below:
+
