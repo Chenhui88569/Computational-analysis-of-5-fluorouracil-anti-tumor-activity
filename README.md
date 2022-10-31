@@ -1,7 +1,7 @@
 # The integrated mechanistic pharmacokinetics/pharmacodynamics model for 5-fluorouracil (5-FU)
 The code is used to implement the model in paper 'Computational analysis of 5-fluorouracil anti-tumor activity in
 colon cancer using a mechanistic
-pharmacokinetic/pharmacodynamic model' published in PLOS Compuatational Biology. 
+pharmacokinetic/pharmacodynamic model' which is accepted for publication in PLOS Compuatational Biology. 
 Author: Chenhui Ma1, Alex Almasan, Evren Gurkan-Cavusoglu
 
 
