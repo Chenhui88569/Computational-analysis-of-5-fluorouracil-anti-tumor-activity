@@ -2,7 +2,7 @@
 The code is used to implement the model in paper 'Computational analysis of 5-fluorouracil anti-tumor activity in
 colon cancer using a mechanistic
 pharmacokinetic/pharmacodynamic model' which is accepted for publication in PLOS Compuatational Biology.  <br> 
-Author: Chenhui Ma1, Alex Almasan, Evren Gurkan-Cavusoglu
+Author: Chenhui Ma, Alex Almasan, Evren Gurkan-Cavusoglu
 
 
 The entire model is composed of PK, cellular, and tumor growth inhibition (TGI) sub-models (shown in figures below), the last two of which constitute the PD model. The PK model is used to compute the concentration-time profile, and the TGI model focuses on the kinetics of tumor growth post-treatment.
