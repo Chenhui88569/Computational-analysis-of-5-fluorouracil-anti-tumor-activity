@@ -48,7 +48,8 @@ while  curr_T  <= T
     %Target_next =  myfun(next_para,Model_Index)  ;
     %Target_next  =  Target_next * PriorFun_PKPD(next_para );
     u = rand;
-    if  log(u)<   log(  Target_next    ) - log(  Target_curr )  % Target_next/Target_curr
+    alpha_i =  min([1,   exp( log(Target_next)  - log(Target_curr) )       ]) ;
+    if  u<     alpha_i  % Target_next/Target_curr
         Para_col(curr_T+1,:)  =  next_para'; 
         acc_rate_col(curr_T) = 1;
         fprintf(outfile, 'accept , %d \r', curr_T );
@@ -62,7 +63,7 @@ while  curr_T  <= T
     end
     acc_rate = sum(acc_rate_col)./curr_T;
     factor  =    U*U'./vecnorm( U,2)^2;
-    temp_mat = S_curr*(  eye(num_para) + min(1,curr_T^(-gamma))*(  acc_rate- alpha_bar  )*factor  )*S_curr';
+    temp_mat = S_curr*(  eye(num_para) + min(1,curr_T^(-gamma))*(    alpha_i - alpha_bar  )*factor  )*S_curr';
     S_curr = chol(temp_mat, 'lower');
     flag = 0 ;
     for iFig = 1:length(FigList)
