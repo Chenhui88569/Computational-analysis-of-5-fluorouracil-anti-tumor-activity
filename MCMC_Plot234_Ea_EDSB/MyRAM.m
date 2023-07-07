@@ -27,7 +27,7 @@ while  curr_T  <= T
     Target_next =  myfun(next_para,Model_Index)  ;
     %Target_next  =  Target_next * PriorFun_PKPD(next_para );
     u = rand;
-    alpha_i =  min([1,   exp( log(Target_next  - Target_curr)       ]) ;
+    alpha_i =  min([1,   exp( log(Target_next)  - log(Target_curr))       ]) ;
     if  u<  alpha_i  % Target_next/Target_curr
         Para_col(curr_T+1,:)  =  next_para'; 
         acc_rate_col(curr_T) = 1;
