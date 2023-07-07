@@ -34,7 +34,7 @@ while  curr_T  <= T
     next_para = curr_para +  S_curr*U;
     while  ~prod( next_para > 0) 
         U = randn(num_para,1);
-        next_para = curr_para +  S_curr*abs(U);
+        next_para = curr_para +  S_curr*U;
     end
     if ~isempty(Model_Index)
         Target_next = myfun( next_para, Model_Index )  ;
@@ -44,7 +44,8 @@ while  curr_T  <= T
     %Target_next =  myfun(next_para,Model_Index)  ;
     %Target_next  =  Target_next * PriorFun_PKPD(next_para );
     u = rand;
-    if  log(u)<   log(  Target_next    ) - log(  Target_curr )  % Target_next/Target_curr
+    alpha_i =  min([1,   exp( log(Target_next  - Target_curr)       ]) ;
+    if  u<   alpha_i  % Target_next/Target_curr
         Para_col(curr_T+1,:)  =  next_para'; 
         acc_rate_col(curr_T) = 1;
         fprintf(outfile, 'accept , %d \r', curr_T );
@@ -56,9 +57,9 @@ while  curr_T  <= T
     if rem(curr_T,50) == 0 %100*floor(curr_T/100) = curr_T  
         fprintf(outfile,'current iteration:  %d \r ', curr_T);
     end
-    acc_rate = sum(acc_rate_col)./curr_T;
+    
     factor  =    U*U'./vecnorm( U,2)^2;
-    temp_mat = S_curr*(  eye(num_para) + min(1,curr_T^(-gamma))*(  acc_rate- alpha_bar  )*factor  )*S_curr';
+    temp_mat = S_curr*(  eye(num_para) + min(1,curr_T^(-gamma))*(   alpha_i- alpha_bar  )*factor  )*S_curr';
     S_curr = chol(temp_mat, 'lower');
     flag = 0 ;
     for iFig = 1:length(FigList)
